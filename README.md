@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -61,4 +61,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # laravel-ecommerce site
 A Laravel-based classified ads platform where users can post, browse, search, and manage advertisements. Includes user authentication, ad categories, and admin moderation features.
->>>>>>> ee7be03e0e8b767df0f3e96e3d152dfced18dae7
+
